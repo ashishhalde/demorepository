@@ -19,6 +19,7 @@ public class Pom_class1 {
 	}
 	 System.out.println("71 is prime");
 	 System.out.println("aaa");
+	 System.out.println("aaa");
 }
 
 }
